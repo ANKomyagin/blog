@@ -1,50 +1,44 @@
 ---
 # Display name
-title: 吳健雄
+title: Андрей Комягин
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Andrey Komyagin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Андрей
+last_name: Комягин
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN University
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Я увлекаюсь музыкой (игра на муз. инструментах, сведение записей, композиция), играю в шахматы lichess 2100, занимаюсь программированием (c++, python). 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Шахматы
+  - Музыкальные инструменты
+  - Программирование
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Прикладная информатика
+      institution: RUDN University
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Комягин Андрей Николаевич - студент РУДН. Он занимается программированием (c++, python), играет в шахматы (рейтинг lichess 2100), любит музыку (игра на музыкальных инструментах, сведение и мастеринг музыкальных треков и аранжировка песен) 
 {style="text-align: justify;"}

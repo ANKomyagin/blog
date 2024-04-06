@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Репетиторство
+          company: Андрей Комягин
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Тотемский округ
+          date_start: '2022-09-01'
+          date_end: '2024-01-01'
           description: |2-
-              Responsibilities include:
+              Предоставляемые услуги:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * ЕГЭ Профильная математика
+              * ЕГЭ Информатика
+              * Олимпиадная информатика
+        - title: Тренер в шахматном клубе "Ладья"
+          company: "Белая ладья"
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Тотьма
+          date_start: '2021-06-01'
+          date_end: '2023-08-31'
+          description: Обучение детей основам игры, вкведение в дебюты, основные эндшпили, стратегия миттельшпиля, стратегия. 
     design:
       columns: '2'
   - block: accomplishments
@@ -98,32 +98,32 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-03-12'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Белая ладья
+          organization_url: 
+          title: Победитель межрайонного шахматного турнира
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          date_start: '2023-02-05'
+          description:
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
+          organization: ВСОШ
+          organization_url: 
+          title: Призёр регионального этапа ВСОШ по информатике
+          url: 
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-06-28'
+          description: 'Красный аттестат, золотая медаль, математика 90 баллов, русский 95 баллов, информатика 85 баллов'
           icon: datacamp
-          organization: DataCamp
+          organization: МБОУ Тотемская СОШ №3
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Золотая медаль, высокобалльник ЕГЭ'
           url: ''
     design:
       columns: '2'
